@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2996243025
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86a79f6645dbfb68680be55991da08f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1bfaa001e661474ef4206fa850a66d59
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3DModels/newf15/f15.prefab
+- Assets/3DModels/newf15/plane.prefab
+Dependencies: []
